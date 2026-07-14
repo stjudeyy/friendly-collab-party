@@ -3,3 +3,17 @@
 We are using this repo for GitHub training
 
 This s my README.file.
+
+## List Items
+* List 1
+* List 2
+* List 3
+
+### Numbered List
+1. Item 1
+2. Item 2
+1. Item 3
+
+
+## Linking my document
+[My repo link][https://commons.wikimedia.org/wiki/File:Cat-1044750.jpg]
