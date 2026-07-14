@@ -16,4 +16,6 @@ This s my README.file.
 
 
 ## Linking my document
-[My repo link][https://commons.wikimedia.org/wiki/File:Cat-1044750.jpg]
+[My repo link](https://commons.wikimedia.org/wiki/File:Cat-1044750.jpg)
+
+![My repo link](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cat-1044750.jpg/1920px-Cat-1044750.jpg?_=20170802222529)
