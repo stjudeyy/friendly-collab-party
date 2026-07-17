@@ -2,7 +2,7 @@
 
 We are using this repo for GitHub training
 
-This s my README.file.
+This is my README.file.
 
 ## List Items
 * List 1
@@ -19,3 +19,4 @@ This s my README.file.
 [My repo link](https://commons.wikimedia.org/wiki/File:Cat-1044750.jpg)
 
 ![My repo link](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cat-1044750.jpg/1920px-Cat-1044750.jpg?_=20170802222529)
+
